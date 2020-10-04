@@ -2,7 +2,7 @@ body {
     margin: 0;
     padding: 0;
     font-family: serif;
-    background-color: #b64a3259;
+    background-color: #75d5a8;
 }
 
 h1, h2 {
@@ -81,6 +81,8 @@ h2 {
     justify-content: flex-end;
     flex-wrap: wrap;
     width: 66.66%;
+    padding: 15px;
+    border: dashed 1px #E01D09
 }
 
 .role-header {

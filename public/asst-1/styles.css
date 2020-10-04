@@ -14,6 +14,7 @@ h1, h2 {
 
 h1 {
     font-weight: 1,300;
+    text-shadow: -3px 3px black;
 }
 
 h2 {
